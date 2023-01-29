@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy German Rojas</h1>
-<h3 align="center">Soy un apasionado por la Seguridad Informatica</h3>
+<h1 align="center">Hola <img width="25" height="25" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/> soy German Rojas</h1>
+<h3 align="center">Soy un apasionado por la Seguridad Informatica y Pentesting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3rmy&label=Profile%20views&color=0e75b6&style=flat" alt="gh3rmy" /> </p>
 

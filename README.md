@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/germanig11" target="blank"><img src="https://img.shields.io/twitter/follow/germanig11?logo=twitter&style=for-the-badge" alt="germanig11" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **ODIN OSINT Framework**
+- 🔭 Actualmente estoy trabajando en el repo **LegalDocsPDF**
 
 - 🌱 Actualmente aprendiendo mas de **Pentesting**
 
